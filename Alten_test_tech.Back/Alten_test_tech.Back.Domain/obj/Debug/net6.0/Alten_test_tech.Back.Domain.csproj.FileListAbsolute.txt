@@ -1,0 +1,14 @@
+C:\Users\bapti\Documents\projet_vs\Alten_test_tech.Back\Alten_test_tech.Back.Domain\bin\Debug\net6.0\Alten_test_tech.Back.Domain.deps.json
+C:\Users\bapti\Documents\projet_vs\Alten_test_tech.Back\Alten_test_tech.Back.Domain\bin\Debug\net6.0\Alten_test_tech.Back.Domain.runtimeconfig.json
+C:\Users\bapti\Documents\projet_vs\Alten_test_tech.Back\Alten_test_tech.Back.Domain\bin\Debug\net6.0\Alten_test_tech.Back.Domain.dll
+C:\Users\bapti\Documents\projet_vs\Alten_test_tech.Back\Alten_test_tech.Back.Domain\bin\Debug\net6.0\Alten_test_tech.Back.Domain.pdb
+C:\Users\bapti\Documents\projet_vs\Alten_test_tech.Back\Alten_test_tech.Back.Domain\obj\Debug\net6.0\Alten_test_tech.Back.Domain.csproj.AssemblyReference.cache
+C:\Users\bapti\Documents\projet_vs\Alten_test_tech.Back\Alten_test_tech.Back.Domain\obj\Debug\net6.0\Alten_test_tech.Back.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bapti\Documents\projet_vs\Alten_test_tech.Back\Alten_test_tech.Back.Domain\obj\Debug\net6.0\Alten_test_tech.Back.Domain.AssemblyInfoInputs.cache
+C:\Users\bapti\Documents\projet_vs\Alten_test_tech.Back\Alten_test_tech.Back.Domain\obj\Debug\net6.0\Alten_test_tech.Back.Domain.AssemblyInfo.cs
+C:\Users\bapti\Documents\projet_vs\Alten_test_tech.Back\Alten_test_tech.Back.Domain\obj\Debug\net6.0\Alten_test_tech.Back.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bapti\Documents\projet_vs\Alten_test_tech.Back\Alten_test_tech.Back.Domain\obj\Debug\net6.0\Alten_test_tech.Back.Domain.dll
+C:\Users\bapti\Documents\projet_vs\Alten_test_tech.Back\Alten_test_tech.Back.Domain\obj\Debug\net6.0\refint\Alten_test_tech.Back.Domain.dll
+C:\Users\bapti\Documents\projet_vs\Alten_test_tech.Back\Alten_test_tech.Back.Domain\obj\Debug\net6.0\Alten_test_tech.Back.Domain.pdb
+C:\Users\bapti\Documents\projet_vs\Alten_test_tech.Back\Alten_test_tech.Back.Domain\obj\Debug\net6.0\Alten_test_tech.Back.Domain.genruntimeconfig.cache
+C:\Users\bapti\Documents\projet_vs\Alten_test_tech.Back\Alten_test_tech.Back.Domain\obj\Debug\net6.0\ref\Alten_test_tech.Back.Domain.dll

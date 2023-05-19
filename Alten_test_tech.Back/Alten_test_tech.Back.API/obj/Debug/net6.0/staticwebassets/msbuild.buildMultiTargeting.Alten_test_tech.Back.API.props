@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Alten_test_tech.Back.API.props" />
+</Project>

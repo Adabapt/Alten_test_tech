@@ -1,0 +1,67 @@
+
+:host ::ng-deep .p-button {
+    margin-right: 10px;
+}
+
+:host ::ng-deep .p-datatable-tbody {
+    td{
+        text-align: center !important;
+    }
+}
+
+:host ::ng-deep .p-datatable-thead > tr > th{
+    text-align: center !important;
+}
+
+.productForm{
+    padding: 10px;
+    border: 1px solid black;
+    background-color: var(--primary-bg-color-light);
+    display: flex;
+    flex-direction: column;
+
+    .form{
+        display: flex;
+        flex-direction: column;
+
+        .formMain{
+            input,textarea{
+                width: 100%;
+                margin-bottom: 5px;
+            }
+        }
+
+        .formOther{
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            
+            .formOtherRow{
+                display: flex;
+                margin-bottom: 5px;
+                width: 100%;
+
+                span{
+                    width:49%;
+                    margin-right: 5px;
+                }
+                input{
+                    width: 100%;
+                }
+            }
+        }
+        
+        .formBtn{
+            display: flex;
+            justify-content: center;
+        }
+    }
+}
+
+:host ::ng-deep p-inputnumber{
+    width:100%;
+
+    .p-inputnumber{
+        width:100%;
+    }
+}

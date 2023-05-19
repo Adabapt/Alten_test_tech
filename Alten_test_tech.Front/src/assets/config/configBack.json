@@ -1,0 +1,10 @@
+{
+    "url_api" : "http://localhost:3000/api/v1/",
+
+    "url_get" : "/Get",
+    "url_post" : "/Post",
+    "url_patch" : "/Patch",
+    "url_del" : "/Delete",
+
+    "url_product" : "Product"
+}
